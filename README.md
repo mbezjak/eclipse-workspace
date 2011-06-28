@@ -5,6 +5,4 @@
 
 ## Configured behaviour
 
- * Don't show intro screen
- * Don't ask for exit confirmation
  * Enable "Java Type Indicator" as label decorator
