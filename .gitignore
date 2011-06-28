@@ -9,6 +9,7 @@ dialog_settings.xml
 /.mylyn/*.zip
 /.plugins/org.eclipse.core.resources/
 /.plugins/org.eclipse.core.runtime/.settings/org.eclipse.epp.usagedata.recording.prefs
+/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.team.cvs.ui.prefs
 /.plugins/org.eclipse.epp.usagedata.recording/
 /.plugins/org.eclipse.jdt.launching/
 /.plugins/org.eclipse.team.cvs.core/.running
