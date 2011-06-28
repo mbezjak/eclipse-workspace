@@ -10,5 +10,6 @@
  * Enable "Java Type Indicator" as label decorator
  * Show author in compare editor
  * Turn off automatic validation for DTD, XML shema and XML
+ * Auto refresh workspace
  * Force unix line separator
  * Force UTF-8 encoding
