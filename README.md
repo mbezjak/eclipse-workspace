@@ -6,3 +6,4 @@
 ## Configured behaviour
 
  * Don't show intro screen
+ * Don't ask for exit confirmation
