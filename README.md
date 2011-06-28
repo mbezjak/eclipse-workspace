@@ -14,3 +14,6 @@
  * Auto refresh workspace
  * Force unix line separator
  * Force UTF-8 encoding
+ * Make maven download sources
+ * Make maven download javadoc
+ * Maven POM editor page is default
