@@ -10,3 +10,4 @@
  * Enable "Java Type Indicator" as label decorator
  * Show author in compare editor
  * Turn off automatic validation for DTD, XML shema and XML
+ * Force unix line separator
