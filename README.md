@@ -8,6 +8,7 @@
  * Use spaces instead of tabs (consistently across all editors)
  * ctrl + H opens file search instead of general seach dialog
  * Enable "Java Type Indicator" as label decorator
+ * Launch last if current editor isn't launchable
  * Show author in compare editor
  * Turn off automatic validation for DTD, XML shema and XML
  * Auto refresh workspace

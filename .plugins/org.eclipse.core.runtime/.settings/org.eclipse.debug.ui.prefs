@@ -1,0 +1,8 @@
+#Wed Jun 29 00:41:11 CEST 2011
+org.eclipse.debug.ui.LaunchLastIfNotLaunchable=true
+org.eclipse.debug.ui.LaunchParentProject=false
+Console.lowWaterMark=1000000
+eclipse.preferences.version=1
+Console.highWaterMark=1008000
+org.eclipse.debug.ui.PREF_LAUNCH_PERSPECTIVES=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\n<launchPerspectives/>\n
+StringVariablePreferencePage=125,104,104,83,
