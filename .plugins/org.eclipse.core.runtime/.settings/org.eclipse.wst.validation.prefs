@@ -1,0 +1,15 @@
+#Wed Jun 29 00:09:52 CEST 2011
+vals/org.eclipse.wst.xsd.core.xsd/global=TF02162org.eclipse.wst.xsd.core.internal.validation.eclipse.Validator
+override=true
+USER_MANUAL_PREFERENCE=enabledManualValidatorList
+vals/org.eclipse.wst.xml.core.xml/global=TF03
+suspend=false
+stateTS=0
+eclipse.preferences.version=1
+vf.version=3
+DELEGATES_PREFERENCE=delegateValidatorList
+saveAuto=false
+confirmDialog=false
+vals/org.eclipse.wst.dtd.core.dtdDTDValidator/global=TF01
+USER_PREFERENCE=saveAutomaticallyfalseprojectsCanOverridetruedisableAllValidationfalseversion1.2.300.v201104190230
+USER_BUILD_PREFERENCE=enabledBuildValidatorList
