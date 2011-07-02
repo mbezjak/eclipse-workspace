@@ -14,4 +14,4 @@
 !/.plugins/org.eclipse.core.runtime/.settings/*
 
 # also ignore usage data preferences
-#/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.epp.usagedata.recording.prefs
+/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.epp.usagedata.recording.prefs
