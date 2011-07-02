@@ -16,7 +16,6 @@
  * Console buffer is maximum 1MB
  * Console tab width is set to `4`
  * Show author in compare editor
- * Turn off automatic validation for DTD, XML shema and XML
  * Auto refresh workspace
  * Force unix line separator
  * Force UTF-8 encoding
