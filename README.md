@@ -30,3 +30,9 @@
  * Maven POM editor page is default
  * Don't ask for confirmation when exiting eclipse
  * Set week start to `Monday` in mylyn
+ * Raise warning on java compiler problem: unnecessaryElse,
+   incompleteEnumSwitch, possibleAccidentalBooleanAssignment,
+   redundantNullCheck, potentialNullReference, missingDeprecatedAnnotation,
+   missingOverrideAnnotation, localVariableHiding, redundantSuperinterface,
+   missingSynchronizedOnInheritedMethod, unusedParameter, unnecessaryTypeCheck,
+   emptyStatement, unusedDeclaredThrownException, missingHashCodeMethod
