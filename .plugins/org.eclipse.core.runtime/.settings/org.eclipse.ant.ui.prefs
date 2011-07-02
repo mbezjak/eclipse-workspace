@@ -1,8 +1,9 @@
-#Tue Jun 28 23:59:10 CEST 2011
+#Sat Jul 02 18:13:45 CEST 2011
 problem_tasks=ignore
 problem_properties=ignore
 useQuickDiffPrefPage=true
 useAnnotationsPrefPage=true
+formatter_tab_size=2
 formatter_tab_char=false
 problem_classpath=warning
 problem_imports=warning
