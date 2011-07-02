@@ -6,7 +6,8 @@
 ## Configured behaviour
 
  * Use spaces instead of tabs consistently across all editors: Text, XML (2
-   spaces), ANT (2 spaces)
+   spaces), ANT (2 spaces), Java
+ * Enable java formatter on/off tags
  * Don't show members in package explorer
  * Automatically insert semicolons in Java editor
  * Automatically insert braces in Java editor
