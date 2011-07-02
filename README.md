@@ -14,6 +14,7 @@
  * Enable "Java Type Indicator" as label decorator
  * Launch last if current editor isn't launchable
  * Console buffer is maximum 1MB
+ * Console tab width is set to `4`
  * Show author in compare editor
  * Turn off automatic validation for DTD, XML shema and XML
  * Auto refresh workspace
