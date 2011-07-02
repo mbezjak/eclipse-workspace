@@ -9,6 +9,7 @@
  * ctrl + H opens file search instead of general seach dialog
  * Enable "Java Type Indicator" as label decorator
  * Launch last if current editor isn't launchable
+ * Console buffer is maximum 1MB
  * Show author in compare editor
  * Turn off automatic validation for DTD, XML shema and XML
  * Auto refresh workspace
@@ -17,3 +18,4 @@
  * Make maven download sources
  * Make maven download javadoc
  * Maven POM editor page is default
+ * Don't ask for confirmation when exiting eclipse
