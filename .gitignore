@@ -13,5 +13,7 @@
 !/.plugins/org.eclipse.core.runtime/.settings/
 !/.plugins/org.eclipse.core.runtime/.settings/*
 
-# also ignore usage data preferences
+# also ignore volatile preferences
 /.plugins/org.eclipse.core.runtime/.settings/org.eclipse.epp.usagedata.recording.prefs
+/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs
+/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.sse.core.prefs
