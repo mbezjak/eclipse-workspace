@@ -12,6 +12,7 @@ dialog_settings.xml
 /.plugins/org.eclipse.core.resources/
 /.plugins/org.eclipse.core.runtime/.settings/org.eclipse.epp.usagedata.recording.prefs
 /.plugins/org.eclipse.epp.usagedata.recording/
+/.plugins/org.eclipse.equinox.p2.discovery.compatibility/cache/
 /.plugins/org.eclipse.jdt.launching/
 /.plugins/org.eclipse.m2e.core/
 /.plugins/org.eclipse.m2e.logback.configuration/
