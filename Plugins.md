@@ -3,7 +3,6 @@ Useful eclipse plugins:
  * [subclipse](http://subclipse.tigris.org/) - It's a sad day when I need to with with SVN
  * [mercurialeclipse](http://javaforge.com/project/HGE)
  * [egit](http://www.eclipse.org/egit/)
- * [m2eclipse](http://m2eclipse.sonatype.org/)
  * [moreUnit](http://moreunit.sourceforge.net/)
  * [copyright wizard](http://www.wdev91.com/?p=cpw)
  * [ObjectAid](http://www.objectaid.com/download)
