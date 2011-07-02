@@ -11,6 +11,7 @@
  * Automatically insert semicolons in Java editor
  * Automatically insert braces in Java editor
  * Content assist proposals limited to: Java (task-focused) and template
+ * Report malformed javadoc as warnings
  * Show print margin at 80 characters
  * Mark occurences in ANT editor
  * Wrap long lines in ANT editor
