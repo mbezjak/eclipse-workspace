@@ -1,4 +1,4 @@
-#Wed Jun 29 00:49:03 CEST 2011
+#Sat Jul 02 22:42:18 CEST 2011
 useQuickDiffPrefPage=true
 proposalOrderMigrated=true
 tabWidthPropagated=true
@@ -13,3 +13,5 @@ org.eclipse.jdt.ui.packages.cuchildren=false
 eclipse.preferences.version=1
 content_assist_proposals_foreground=20,19,18
 fontPropagated=true
+smart_semicolon=true
+smart_opening_brace=true

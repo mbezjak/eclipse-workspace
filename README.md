@@ -8,6 +8,8 @@
  * Use spaces instead of tabs consistently across all editors: Text, XML (2
    spaces), ANT (2 spaces)
  * Don't show members in package explorer
+ * Automatically insert semicolons in Java editor
+ * Automatically insert braces in Java editor
  * Show print margin at 80 characters
  * Mark occurences in ANT editor
  * Wrap long lines in ANT editor
