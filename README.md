@@ -30,6 +30,7 @@
  * Make maven download javadoc
  * Maven POM editor page is default
  * Set week start to `Monday` in mylyn
+ * Use username from `~/.hgrc` for mercurial
  * Raise warning on java compiler problem: unnecessaryElse,
    incompleteEnumSwitch, possibleAccidentalBooleanAssignment,
    redundantNullCheck, potentialNullReference, missingDeprecatedAnnotation,
