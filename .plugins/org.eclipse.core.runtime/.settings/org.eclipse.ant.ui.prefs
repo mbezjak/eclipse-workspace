@@ -7,6 +7,7 @@ formatter_tab_size=2
 formatter_tab_char=false
 problem_classpath=warning
 problem_imports=warning
+editor_mark_occurrences=true
 problem_security=warning
 org.eclipse.ant.ui.customtemplates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
 eclipse.preferences.version=1
