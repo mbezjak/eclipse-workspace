@@ -9,6 +9,7 @@
    spaces), ANT (2 spaces)
  * Show print margin at 80 characters
  * Mark occurences in ANT editor
+ * Wrap long lines in ANT editor
  * ctrl + H opens file search instead of general seach dialog
  * Enable "Java Type Indicator" as label decorator
  * Launch last if current editor isn't launchable
