@@ -3,11 +3,11 @@
 dialog_settings.xml
 *.dat
 *.png
+*.zip
 *.log
 *Cache
 *History.xml
 
-/.mylyn/*.zip
 /.plugins/org.eclipse.core.resources/
 /.plugins/org.eclipse.core.runtime/.settings/org.eclipse.epp.usagedata.recording.prefs
 /.plugins/org.eclipse.epp.usagedata.recording/
