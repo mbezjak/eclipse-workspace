@@ -1,15 +1,15 @@
 Useful eclipse plugins:
 
- * [subclipse](http://subclipse.tigris.org/) - It's a sad day when I need to with with SVN
  * [mercurialeclipse](http://javaforge.com/project/HGE)
  * [egit](http://www.eclipse.org/egit/)
- * [moreUnit](http://moreunit.sourceforge.net/)
- * [copyright wizard](http://www.wdev91.com/?p=cpw)
- * [ObjectAid](http://www.objectaid.com/download)
- * [RegexUtil](http://myregexp.com/eclipsePlugin.html)
- * [Log4E](http://log4e.jayefem.de/)
+ * [subclipse](http://subclipse.tigris.org/) - It's a sad day when I need to work with SVN
  * [Groovy Eclipse](http://groovy.codehaus.org/Eclipse+Plugin)
+ * [moreUnit](http://moreunit.sourceforge.net/)
+ * [ObjectAid](http://www.objectaid.com/download)
+ * [Log4E](http://log4e.jayefem.de/)
  * [FindBugs](http://marketplace.eclipse.org/content/findbugs-eclipse-plugin)
+ * [RegexUtil](http://myregexp.com/eclipsePlugin.html)
+ * [copyright wizard](http://www.wdev91.com/?p=cpw)
 
 Other potential plugins:
 
