@@ -37,3 +37,4 @@
    missingOverrideAnnotation, localVariableHiding, redundantSuperinterface,
    missingSynchronizedOnInheritedMethod, unusedParameter, unnecessaryTypeCheck,
    emptyStatement, unusedDeclaredThrownException, missingHashCodeMethod
+ * MoreUnit uses `junit4` tests located in `src/test/java` with no prefixes
