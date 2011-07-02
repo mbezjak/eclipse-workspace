@@ -9,6 +9,7 @@ org.eclipse.jface.textfont=1|Monospace|10.0|0|GTK|1|;
 org.eclipse.jdt.ui.editor.tab.width=
 org.eclipse.jdt.ui.formatterprofiles.version=12
 spelling_locale_initialized=true
+org.eclipse.jdt.ui.packages.cuchildren=false
 eclipse.preferences.version=1
 content_assist_proposals_foreground=20,19,18
 fontPropagated=true
