@@ -1,4 +1,5 @@
 .lock
+.running
 dialog_settings.xml
 *.dat
 *.png
@@ -11,7 +12,6 @@ dialog_settings.xml
 /.plugins/org.eclipse.core.runtime/.settings/org.eclipse.epp.usagedata.recording.prefs
 /.plugins/org.eclipse.epp.usagedata.recording/
 /.plugins/org.eclipse.jdt.launching/
-/.plugins/org.eclipse.team.cvs.core/.running
 /.plugins/org.eclipse.m2e.core/nexus/
 /.plugins/org.eclipse.m2e.core/workspaceState.ser
 /.plugins/org.eclipse.m2e.logback.configuration/
