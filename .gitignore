@@ -13,7 +13,7 @@
 !/.plugins/org.eclipse.core.runtime/.settings/
 !/.plugins/org.eclipse.core.runtime/.settings/*
 
-# also ignore volatile preferences
+# but ignore volatile preferences
 /.plugins/org.eclipse.core.runtime/.settings/org.eclipse.epp.usagedata.recording.prefs
 /.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs
 /.plugins/org.eclipse.core.runtime/.settings/org.eclipse.m2e.discovery.prefs
