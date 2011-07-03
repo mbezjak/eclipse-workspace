@@ -2,7 +2,6 @@ Useful eclipse plugins:
 
  * [mercurialeclipse](http://javaforge.com/project/HGE)
  * [egit](http://www.eclipse.org/egit/)
- * [subclipse](http://subclipse.tigris.org/) - It's a sad day when I need to work with SVN
  * [Groovy Eclipse](http://groovy.codehaus.org/Eclipse+Plugin)
  * [moreUnit](http://moreunit.sourceforge.net/)
  * [ObjectAid](http://www.objectaid.com/download)
