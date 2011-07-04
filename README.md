@@ -40,11 +40,11 @@ directory in eclipse workspace.
    missingSynchronizedOnInheritedMethod, unusedParameter, unnecessaryTypeCheck,
    emptyStatement, unusedDeclaredThrownException, missingHashCodeMethod
 
-### m2e
+### Maven
 
  * Download sources
  * Download javadoc
- * POM editor page opens by default
+ * Open XML page in the POM editor by default
 
 ### XML
 
