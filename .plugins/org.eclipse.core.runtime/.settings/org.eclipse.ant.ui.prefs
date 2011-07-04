@@ -1,14 +1,8 @@
-#Sat Jul 02 18:57:33 CEST 2011
-problem_tasks=ignore
-problem_properties=ignore
-useQuickDiffPrefPage=true
+#Tue Jul 05 00:17:51 CEST 2011
 formatter_wrap_long=true
 useAnnotationsPrefPage=true
-formatter_tab_size=2
 formatter_tab_char=false
-problem_classpath=warning
-problem_imports=warning
-editor_mark_occurrences=true
-problem_security=warning
-org.eclipse.ant.ui.customtemplates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+formatter_tab_size=2
 eclipse.preferences.version=1
+editor_mark_occurrences=true
+useQuickDiffPrefPage=true
