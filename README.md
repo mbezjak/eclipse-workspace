@@ -5,36 +5,68 @@
 
 ## Configured behaviour
 
- * Use spaces instead of tabs consistently across all editors: Text, XML (2
-   spaces), ANT (2 spaces), Java
- * Enable java formatter on/off tags
- * Don't show members in package explorer
- * Automatically insert semicolons in Java editor
- * Automatically insert braces in Java editor
- * Content assist proposals limited to: Java (task-focused) and template
- * Report malformed javadoc as warnings
- * Show print margin at 80 characters
- * Mark occurences in ANT editor
- * Wrap long lines in ANT editor
- * Set line width to `80` for XML editor
- * ctrl + H opens file search instead of general seach dialog
- * Enable "Java Type Indicator" as label decorator
- * Launch last if current editor isn't launchable
- * Console buffer is maximum 1MB
- * Console tab width is set to `4`
- * Show author in compare editor
+Following describes what you get when this project is used as `.metadata`
+directory in eclipse workspace.
+
+### General
+
+ * Use UTF-8 encoding
+ * Use unix line separator
  * Auto refresh workspace
- * Force unix line separator
- * Force UTF-8 encoding
- * Make maven download sources
- * Make maven download javadoc
- * Maven POM editor page is default
- * Set week start to `Monday` in mylyn
- * Use username from `~/.hgrc` for mercurial
- * Raise warning on java compiler problem: unnecessaryElse,
-   incompleteEnumSwitch, possibleAccidentalBooleanAssignment,
-   redundantNullCheck, potentialNullReference, missingDeprecatedAnnotation,
+ * Don't show members in package explorer
+ * Use 4 spaces instead of tabs in text editor
+ * Show print margin at `80` characters
+ * Show authors in compare editor
+ * Console buffer set to `1MB` (maximum)
+ * Console tab width set to `4`
+ * Launch selected resource or active editor on `ctrl + F11`
+ * Launch the previously launched application if not selected resource or active
+   editor isn't launchable on `ctrl + F11`
+ * `ctrl + h` opens file search instead of general search dialog
+
+### Java
+
+ * Use 4 spaces instead of tabs
+ * Automatically insert semicolons at correct position
+ * Automatically insert braces at correct position
+ * Limit content assist proposals to: Java (task-focused) and template
+ * Enable `Java Type Indicator` as label decorator
+ * Enable formatter off/on tags (`@formatter:off`, `@formatter:on`)
+ * Report malformed javadoc as warnings
+ * Raise warning on compiler problem: unnecessaryElse, incompleteEnumSwitch,
+   possibleAccidentalBooleanAssignment, redundantNullCheck,
+   potentialNullReference, missingDeprecatedAnnotation,
    missingOverrideAnnotation, localVariableHiding, redundantSuperinterface,
    missingSynchronizedOnInheritedMethod, unusedParameter, unnecessaryTypeCheck,
    emptyStatement, unusedDeclaredThrownException, missingHashCodeMethod
- * MoreUnit uses `junit4` tests located in `src/test/java` with no prefixes
+
+### m2e
+
+ * Download sources
+ * Download javadoc
+ * POM editor page opens by default
+
+### XML
+
+ * Use 2 spaces instead of tabs
+ * Set line width to `80` characters
+
+### Ant
+
+ * Use 2 spaces instead of tabs
+ * Mark occurences
+ * Wrap long lines
+
+### Mylyn
+
+ * Start week is `Monday`
+
+### Plugin: mercurialeclipse
+
+ * Use username from `~/.hgrc`
+
+### Plugin: moreunit
+
+ * Use `junit4` test type
+ * Tests location is `src/test/java`
+ * Use no prefix for tests
