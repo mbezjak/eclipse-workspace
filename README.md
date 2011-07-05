@@ -13,7 +13,6 @@ directory in eclipse workspace.
  * Use UTF-8 encoding
  * Use unix line separator
  * Auto refresh workspace
- * Don't show members in package explorer
  * Use 4 spaces instead of tabs in text editor
  * Show print margin at `80` characters
  * Show authors in compare editor
@@ -27,11 +26,12 @@ directory in eclipse workspace.
 ### Java
 
  * Use 4 spaces instead of tabs
+ * Enable formatter off/on tags (`@formatter:off`, `@formatter:on`)
+ * Don't show members in package explorer
  * Automatically insert semicolons at correct position
  * Automatically insert braces at correct position
  * Limit content assist proposals to: Java (task-focused) and template
  * Enable `Java Type Indicator` as label decorator
- * Enable formatter off/on tags (`@formatter:off`, `@formatter:on`)
  * Report malformed javadoc as warnings
  * Raise warning on compiler problem: unnecessaryElse, incompleteEnumSwitch,
    possibleAccidentalBooleanAssignment, redundantNullCheck,
