@@ -39,6 +39,8 @@ directory in eclipse workspace.
    missingOverrideAnnotation, localVariableHiding, redundantSuperinterface,
    missingSynchronizedOnInheritedMethod, unusedParameter, unnecessaryTypeCheck,
    emptyStatement, unusedDeclaredThrownException, missingHashCodeMethod
+ * Enable save action: add missing `@Override` and `@Deprecated` annotations and
+   remove unnecessary casts
 
 ### Maven
 
