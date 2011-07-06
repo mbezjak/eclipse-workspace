@@ -22,6 +22,7 @@ directory in eclipse workspace.
  * Launch the previously launched application if not selected resource or active
    editor isn't launchable on `ctrl + F11`
  * `ctrl + h` opens file search instead of general search dialog
+ * `ctrl + alt + c` opens mercurial commit dialog
 
 ### Java
 
