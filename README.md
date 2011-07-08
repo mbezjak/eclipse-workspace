@@ -1,7 +1,7 @@
 ## Installation procedure
 
     # assuming target directory is ~/workspace
-    $ git clone git@github.com:mbezjak/eclipse-workspace.git ~/workspace/.metadata
+    $ git clone https://github.com/mbezjak/eclipse-workspace.git ~/workspace/.metadata
 
 ## Configured behaviour
 
