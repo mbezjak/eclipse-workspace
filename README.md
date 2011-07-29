@@ -47,6 +47,8 @@ directory in eclipse workspace.
 
  * Use 4 spaces instead of tabs
  * Add new line at end of file if missing
+ * Unbind `shift + ctrl + t` when in javascript editor. This causes
+   `shift + ctrl + t` to open java types instead of javascript ones.
 
 ### Maven
 
