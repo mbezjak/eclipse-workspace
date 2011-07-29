@@ -50,6 +50,10 @@ directory in eclipse workspace.
  * Unbind `shift + ctrl + t` when in javascript editor. This causes
    `shift + ctrl + t` to open java types instead of javascript ones.
 
+### CSS
+
+ * Use 4 spaces instead of tabs
+
 ### Maven
 
  * Download sources
