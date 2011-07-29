@@ -54,6 +54,10 @@ directory in eclipse workspace.
 
  * Use 4 spaces instead of tabs
 
+### HTML
+
+ * Use 4 spaces instead of tabs
+
 ### Maven
 
  * Download sources
