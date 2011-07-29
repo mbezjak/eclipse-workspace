@@ -43,6 +43,11 @@ directory in eclipse workspace.
  * Enable save action: add missing `@Override` and `@Deprecated` annotations and
    remove unnecessary casts
 
+### Javascript
+
+ * Use 4 spaces instead of tabs
+ * Add new line at end of file if missing
+
 ### Maven
 
  * Download sources
