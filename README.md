@@ -49,6 +49,7 @@ directory in eclipse workspace.
  * Add new line at end of file if missing
  * Unbind `shift + ctrl + t` when in javascript editor. This causes
    `shift + ctrl + t` to open java types instead of javascript ones.
+ * Disable JSDoc comment formatting
 
 ### CSS
 
