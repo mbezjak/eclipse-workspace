@@ -3,6 +3,7 @@ Useful eclipse plugins:
  * [mercurialeclipse](http://javaforge.com/project/HGE)
  * [egit](http://www.eclipse.org/egit/)
  * [Groovy Eclipse](http://groovy.codehaus.org/Eclipse+Plugin)
+ * [Scala IDE](http://www.scala-ide.org)
  * [moreUnit](http://moreunit.sourceforge.net/)
  * [ObjectAid](http://www.objectaid.com/download)
  * [Log4E](http://log4e.jayefem.de/)
