@@ -80,6 +80,10 @@ directory in eclipse workspace.
 
  * Start week is `Monday`
 
+### Plugin: groovyeclipse
+
+ * Formatter removes unnecessary semicolons
+
 ### Plugin: mercurialeclipse
 
  * Use username from `~/.hgrc`
